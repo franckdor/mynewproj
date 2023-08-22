@@ -1,2 +1,2 @@
 # mynewproj
-rep de test
+rep de test à cloner
